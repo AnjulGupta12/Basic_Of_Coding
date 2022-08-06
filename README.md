@@ -38,3 +38,19 @@ CONDITIONAL
 ITERATION
 
 17. Display first 10 no.
+18. Display first 10 no. in reverse order.
+19. Display first 10 even no. in reverse order.
+20. Display first 10 odd no. in reverse order.
+21. Display sum of first 10 number.
+22. Product of first 5 no.
+23. Input any no. & find it's factorial.
+24. Input any no. &  display it's table.
+25. Input any two no. "a" and "b" & find "a" to the power "b". (a^b)
+26. Input any no. &  display it's factor.
+27. Input any no. & count no of factors.
+28. Input any no. & check is it prime or not.
+29. Input any no. & find sum of it's digits.
+30. Input any no. & count no. of digits in it.
+31. Print the sum of following series: (1)+(1/4)+(1/7)+(1/10)+(1/13)+(1/16)+(1/19)+(1/22)+(1/25)
+32. Input any number and find it's factor.
+33. 
