@@ -12,7 +12,7 @@ IT IS OF THREE TYPE:
 QUESTIONS</br>
 
 </br>
-SQUENTIAL
+SQUENTIAL</br>
 </br>
 
 1. Input two number & display sum
@@ -22,19 +22,19 @@ SQUENTIAL
 5. Input numerator and denominator and calculate quotient and remainder.
 6. Input number of days and calculate no. of month and days in it. (assume 30 days in a month)
 7. Input radius of circle and find the area of circle.
-</br>
+
 CONDITIONAL
-</br>
-1. Input two no and display greatest.
-2. Input any numerator and check it is -ve and +ve.
-3. Input any no and check it is divisible by 47 or not.
-4. Input any no and check it is even or odd.
-5. Input any no and check it is between 11 and 23.
-6. Input any no and check it is exactly divisible by 5 & 18.
-7. Find greater from three no without using multicondition in one if statement.
-8. Input 4 no and check and display greatest.
-9. Check divisibility from 2,3 and 7.
-</br>
+
+8. Input two no and display greatest.
+9. Input any numerator and check it is -ve and +ve.
+10. Input any no and check it is divisible by 47 or not.
+11. Input any no and check it is even or odd.
+12. Input any no and check it is between 11 and 23.
+13. Input any no and check it is exactly divisible by 5 & 18.
+14. Find greater from three no without using multicondition in one if statement.
+15. Input 4 no and check and display greatest.
+16. Check divisibility from 2,3 and 7.
+
 ITERATION
-</BR>
-1. Display first 10 no.
+
+17. Display first 10 no.
