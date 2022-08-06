@@ -73,5 +73,15 @@ ITERATION
 48. 1</br>22</br>333</br>4444
 49. 1</br>2 3</br>4 5 6</br>7 8 9 10
 50. ***** </br> **** </br> *** </br> ** </br> *
-51. 
+51. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1</br>&nbsp;&nbsp;1 2 1 </br>&nbsp;1 3 3 1</br>1 4 6 4 1
+52. Display factorial from 1 to 7
+53. Display factor from 1 to 10
+54. Display table from 10 to 20
+55. Display prime no. b/w 1 to 10
+56. Reverse digit of each number from 234 to 244
+57. Display Armstrong no b/w 100 and 999.
+57. Display perfect no b/w 100 and 500.
+58. Display decimal to binary from 10 to 20.
+59. Display first n terms prime no.
+60. 
 
