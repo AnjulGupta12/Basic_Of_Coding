@@ -53,4 +53,18 @@ ITERATION
 30. Input any no. & count no. of digits in it.
 31. Print the sum of following series: (1)+(1/4)+(1/7)+(1/10)+(1/13)+(1/16)+(1/19)+(1/22)+(1/25)
 32. Input any number and find it's factor.
-33. 
+33. Input any no. & display its reverse. (123 -> 321)
+34. Input any no. & check if it is Armstrong or not.
+35. Input any no. & check no is ARMSTRONG or not.  (153 -> 1^3 + 5^3 + 3^3 = 1+125+27 = 153 yes)
+36. Input any no. & check no is PERFECT (MAGICAL) or not.  (6 -> 1,2,3 -> 1*2*3=1+2+3)
+37. Input any decimal no. & convert it on binary equivalent.
+38. Input any binary no. & convert it on decimal equivalent.
+ </BR>DISPLAY SERIES UPTO Nth TERM:-
+39. 1,3,5,7,9,_ _ _ _
+40. 1,2,4,7,11,16,_ _ _ _
+41. 1,4,9,16,25,_ _ _ _
+42. 0,3,8,15,24,_ _ _ _
+43. 0,1,1,2,3,5,8,13,_ _ _ _ (FIBONACCI series)
+</br>PRINT THE PATTERNS
+44. s
+45. 
