@@ -57,13 +57,13 @@ IT IS OF THREE TYPE:
 36. Input any no. & check no is PERFECT (MAGICAL) or not.  (6 -> 1,2,3 -> 1*2*3=1+2+3)
 37. Input any decimal no. & convert it on binary equivalent.
 38. Input any binary no. & convert it on decimal equivalent.
- </BR>DISPLAY SERIES UPTO Nth TERM:-
+ </BR>**DISPLAY SERIES UPTO Nth TERM:-**
 39. 1,3,5,7,9,_ _ _ _
 40. 1,2,4,7,11,16,_ _ _ _
 41. 1,4,9,16,25,_ _ _ _
 42. 0,3,8,15,24,_ _ _ _
 43. 0,1,1,2,3,5,8,13,_ _ _ _ (FIBONACCI series)
-</br>PRINT THE PATTERNS
+</br>**PRINT THE PATTERNS**
 44. 1234</br>1234</br>1234</br>1234
 45. 1111</br>2222</br>3333</br>4444
 46. 1</br>12</br>123</br>1234
