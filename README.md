@@ -9,11 +9,9 @@ IT IS OF THREE TYPE:
 2. Conditional
 3. Iteration
 
-QUESTIONS</br>
+**QUESTIONS**</br>
 
-</br>
-SQUENTIAL</br>
-</br>
+> SQUENTIAL
 
 1. Input two number & display sum
 2. Input values in rupees and convert it into paisa.
@@ -23,7 +21,7 @@ SQUENTIAL</br>
 6. Input number of days and calculate no. of month and days in it. (assume 30 days in a month)
 7. Input radius of circle and find the area of circle.
 
-CONDITIONAL
+> CONDITIONAL
 
 8. Input two no and display greatest.
 9. Input any numerator and check it is -ve and +ve.
@@ -35,7 +33,7 @@ CONDITIONAL
 15. Input 4 no and check and display greatest.
 16. Check divisibility from 2,3 and 7.
 
-ITERATION
+> ITERATION
 
 17. Display first 10 no.
 18. Display first 10 no. in reverse order.
