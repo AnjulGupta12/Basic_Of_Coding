@@ -104,3 +104,5 @@ IT IS OF THREE TYPE:
 80. Input twqo dimensional array & display it.
 81. Input a 2d array & find sum of its elements.
 82. Input a 2d array & copy it into another 2d array.
+83. Input a 2d array & find its transpose.
+84. Input a 2d array & find sum of its rows.
