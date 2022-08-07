@@ -82,4 +82,21 @@ IT IS OF THREE TYPE:
 58. Display decimal to binary from 10 to 20.
 59. Display first n terms prime no.
 60. 
-
+61. 
+62. 
+63. 
+64. 
+65. 
+66. 
+67. find greatest from five number.
+68. print array from 3 to 8.
+69. input an array & display it in reverse order.
+70. input an array & find sum of the elements.
+71. input an array & copy it into another array.
+72. input an array & copy it into another array in reverse order.
+73. input an array & find its greatest element.
+74. write a program to search an element in an array.
+75. input an array & arrange its element in inc. order.
+76. write a program to convert decimal number into binary using array.
+77. input an array & rotatein one position to left.
+78. input an array & rotate in one position to right.
