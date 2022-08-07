@@ -113,3 +113,10 @@ IT IS OF THREE TYPE:
 87. Input a 2d array & find sum of its backward diagonal.
 88. Input a 2d array & find sum of 2 matrices.
 89. Input a 2d array & find product of 2 matrix.
+</br>**MAKE AN OBJECT(FUNCTION) OF THE GIVEN CONDITION THEN CALL FOR IT**
+90. Sum of two number
+91. Finding factorial
+92. Displaying factors
+Print the pattern
+93. ***** </br> &nbsp;**** </br> &nbsp;&nbsp;*** </br> &nbsp;&nbsp;&nbsp;** </br> &nbsp;&nbsp;&nbsp;&nbsp;*
+94. Try all the questions given above you think is tough to do.
