@@ -81,13 +81,13 @@ IT IS OF THREE TYPE:
 57. Display perfect no b/w 100 and 500.
 58. Display decimal to binary from 10 to 20.
 59. Display first n terms prime no.
-60. 
-61. 
-62. 
-63. 
-64. 
-65. 
-66. 
+60. (1)+(1!)+(2!)+(3!)+...........(n!)
+61. (1)+(x)+(x^2)+(x^3)+...........(x^n)
+62. (1)+(1/1!)+(1/2!)+(1/3!)+...........(1/n!)
+63. (1)+(x)+((x^2)/2)+((x^3)/3)+...........((x^n)/n)
+64. (1)+(x)+((x^2)/2!)+((x^3)/3!)+...........((x^n)/n!)
+65. (1)-(1/2)+(1/3)-(1/4)+...........(1/n)
+66. (1/x)+(1/(x^2))+(1/(x^3))+...........(1/(x^n))
 67. Find greatest from five number.
 68. Print array from 3 to 8.
 69. Input an array & display it in reverse order.
@@ -101,8 +101,13 @@ IT IS OF THREE TYPE:
 77. Input an array & rotatein one position to left. 12345->23451.
 78. Input an array & rotate in one position to right. 12345->51234.
 79. Through array print table of 2.
-80. Input twqo dimensional array & display it.
+80. Input two dimensional array & display it.
 81. Input a 2d array & find sum of its elements.
 82. Input a 2d array & copy it into another 2d array.
 83. Input a 2d array & find its transpose.
 84. Input a 2d array & find sum of its rows.
+85. Input a 2d array & find sum of its columns.
+86. Input a 2d array & find sum of its first diagonal.
+87. Input a 2d array & find sum of its backward diagonal.
+88. Input a 2d array & find sum of 2 matrices.
+89. Input a 2d array & find product of 2 matrix.
