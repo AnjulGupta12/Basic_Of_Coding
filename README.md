@@ -88,15 +88,15 @@ IT IS OF THREE TYPE:
 64. 
 65. 
 66. 
-67. find greatest from five number.
-68. print array from 3 to 8.
-69. input an array & display it in reverse order.
-70. input an array & find sum of the elements.
-71. input an array & copy it into another array.
-72. input an array & copy it into another array in reverse order.
-73. input an array & find its greatest element.
-74. write a program to search an element in an array.
-75. input an array & arrange its element in inc. order.
-76. write a program to convert decimal number into binary using array.
-77. input an array & rotatein one position to left.
-78. input an array & rotate in one position to right.
+67. Find greatest from five number.
+68. Print array from 3 to 8.
+69. Input an array & display it in reverse order.
+70. Input an array & find sum of the elements.
+71. Input an array & copy it into another array.
+72. Input an array & copy it into another array in reverse order.
+73. Input an array & find its greatest element.
+74. Write a program to search an element in an array.
+75. Input an array & arrange its element in inc. order.
+76. Write a program to convert decimal number into binary using array.
+77. Input an array & rotatein one position to left. 12345->23451.
+78. Input an array & rotate in one position to right. 12345->51234.
