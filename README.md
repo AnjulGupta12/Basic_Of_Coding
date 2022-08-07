@@ -89,6 +89,7 @@ IT IS OF THREE TYPE:
 65. (1)-(1/2)+(1/3)-(1/4)+...........(1/n)
 66. (1/x)+(1/(x^2))+(1/(x^3))+...........(1/(x^n))
 67. Find greatest from five number.
+</br>**1-D Array**
 68. Print array from 3 to 8.
 69. Input an array & display it in reverse order.
 70. Input an array & find sum of the elements.
@@ -101,6 +102,7 @@ IT IS OF THREE TYPE:
 77. Input an array & rotatein one position to left. 12345->23451.
 78. Input an array & rotate in one position to right. 12345->51234.
 79. Through array print table of 2.
+</br>**2-D Array**
 80. Input two dimensional array & display it.
 81. Input a 2d array & find sum of its elements.
 82. Input a 2d array & copy it into another 2d array.
