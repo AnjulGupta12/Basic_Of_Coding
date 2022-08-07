@@ -100,3 +100,7 @@ IT IS OF THREE TYPE:
 76. Write a program to convert decimal number into binary using array.
 77. Input an array & rotatein one position to left. 12345->23451.
 78. Input an array & rotate in one position to right. 12345->51234.
+79. Through array print table of 2.
+80. Input twqo dimensional array & display it.
+81. Input a 2d array & find sum of its elements.
+82. Input a 2d array & copy it into another 2d array.
