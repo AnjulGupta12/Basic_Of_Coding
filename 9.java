@@ -6,7 +6,7 @@ class checkNegativeAndPositive {
             System.out.print(number + " is positive.");
             }
           else
-            ){
+            {
             System.out.print(number + " is negative.");
             }
         }
