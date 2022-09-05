@@ -1,5 +1,5 @@
 # Basics_Of_Coding
-This repository is only for practice students who had just start doing programming. They can go through the list(question) in readme file and Answers and also available accordingly. It is been recommended to try each and every question by yourself first even after trial of 15 min if you are unable to solve it then only go for answers.
+This repository is only for practice 
 Answers are given in Java format
 
 ALGORITHM: Algorithm is a step-wise representation of a solution to a given problem. In Algorithm the problem is broken down into smaller pieces or steps hence, it is easier for the programmer to convert it into an actual program.
