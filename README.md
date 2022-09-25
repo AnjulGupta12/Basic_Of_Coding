@@ -21,13 +21,11 @@ IT IS OF THREE TYPE:
 6. Input number of days and calculate no. of month and days in it. (assume 30 days in a month)
 7. Input radius of circle and find the area of circle.
 
-https://meet.google.com/cdv-truh-crn
-
 
 > CONDITIONAL
 
 8. Input two no and display greatest.
-9. Input any numerator and check it is -ve and +ve.
+9. Input any number and check it is -ve and +ve.
 10. Input any no and check it is divisible by 47 or not.
 11. Input any no and check it is even or odd.
 12. Input any no and check it is between 11 and 23.
