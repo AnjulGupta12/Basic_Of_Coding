@@ -34,6 +34,8 @@ IT IS OF THREE TYPE:
 15. Input 4 no and check and display greatest.
 16. Check divisibility from 2,3 and 7.
 
+https://meet.google.com/djn-aeba-zzi
+
 > ITERATION
 
 17. Display first 10 no.
