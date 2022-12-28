@@ -33,7 +33,7 @@ IT IS OF THREE TYPE:
 14. Find greater from three no without using multicondition in one if statement.
 15. Input 4 no and check and display greatest.
 16. Check divisibility from 2,3 and 7.
-https://meet.google.com/mec-zjtp-qha
+
 > ITERATION
 
 17. Display first 10 no.
